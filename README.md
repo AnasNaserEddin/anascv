@@ -2,9 +2,10 @@
 <html>
 <body>
 
-<h1>My First Heading looking for update cv</h1>
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
 
-<p>My first paragraph.it is work</p>
+<a href="https://www.w3schools.com">This is a link</a>
 
 </body>
 </html>
