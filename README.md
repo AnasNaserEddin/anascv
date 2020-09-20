@@ -2,10 +2,7 @@
 <html>
 <body>
 
-<h2>HTML Links</h2>
-<p>HTML links are defined with the a tag:</p>
-
-<a href="https://www.w3schools.com">This is a link</a>
+<p><strong><h1>Anas Naser Eddin</h1></strong></p>
 
 </body>
 </html>
