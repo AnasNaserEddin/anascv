@@ -104,7 +104,6 @@ a {
 <div class="stuff">
   
   <h1 style=" text-align:center;color:#0bb5f4">Anas Naser Eddin</h1>
-  <h2></h2>
   <hr />
   
 <p style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> 
