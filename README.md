@@ -82,16 +82,6 @@ a {
   text-decoration: none;
 }
 
-@media only screen and (max-width: 430px) {
-  .left,
-  .right {
-    display: none;
-  }
-  .stuff {
-    width: 100%;
-    margin-left: 10px;
-  }
-}
   </style> 
   </head>
 <body>
