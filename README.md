@@ -16,7 +16,7 @@
 div {
   border-radius: 5px;
 }
-
+/*
 #header {
   height: 10px;
   width: 100%;
@@ -24,11 +24,11 @@ div {
   position: fixed;
   z-index: 1;
 }
-
+*/
 #title {
   margin-left: 3%;
 }
-
+/*
 #footer {
   height: 14px;
   width: 100%;
@@ -44,7 +44,8 @@ div {
   float: left;
   position: fixed;
 }
-
+*/
+/*
 .right {
   height: 1040px;
   width: 10px;
@@ -52,7 +53,7 @@ div {
   float: right;
   position: inherit;
 }
-
+*/
 .stuff {
   display: inline-block;
   margin-top: 6px;
