@@ -100,8 +100,7 @@ a {
   </style> 
   </head>
 <body>
-<div id="header"></div>
-<div class="left"></div>
+
 <div class="stuff">
   
   <h1 style=" text-align:center;color:#0bb5f4">Anas Naser Eddin</h1>
@@ -182,9 +181,7 @@ Microsoft SQL Server Management Studio
   </ul>
 <br>
 </div>
-<div class="right"></div>
-<div id="footer">
-</div>
+
 
 </body>
 </html>
