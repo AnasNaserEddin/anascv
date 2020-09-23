@@ -1,13 +1,7 @@
 <html>
   <head>
    <style type="text/css">
-  * {
-  max-width: 700px;
-  margin: auto;
- font-family: "Montserrat", sans-serif;
-
-}
-
+ 
 
 /*body {
     min-width: 500px;
