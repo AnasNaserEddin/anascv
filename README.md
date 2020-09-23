@@ -18,7 +18,11 @@ div {
 }
 /*
 #header {
- display:none;
+  height: 10px;
+  width: 100%;
+  background-color:#0bb5f4;
+  position: fixed;
+  z-index: 1;
   
 }
 */
