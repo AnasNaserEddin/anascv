@@ -102,11 +102,11 @@ a {
 <div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
-  <br><br>
+  
   <h1 style=" text-align:center;color:#0bb5f4">Anas Naser Eddin</h1>
   <h2></h2>
   <hr />
-  <br>
+  
 <p style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> 
 
 Jerusalem</span></p>
