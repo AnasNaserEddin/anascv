@@ -93,9 +93,9 @@ a {
 <p style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></p>
 <p style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: normal;color:black">0525269627</span></p>
 <br>
-  <p class="head">Employment:</p>
+  <h2 class="head">Employment</h2>
   <ul>
-    <li><span style="font-weight: bold;">[July 2019 - Now]  </span>Tikshoov Company ,customer support 
+    <li><span style="font-weight: bold;">[July 2019 - Present]  </span>Tikshoov Company ,customer support 
 
 for hotmobile company customers.</li>
     <li><span style="font-weight: bold;">[July 2018 - April 2019 ] </span> Adam Engineering Infrastructure 
