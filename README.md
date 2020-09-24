@@ -95,7 +95,7 @@ a {
 <br>
   <p class="head">Employment:</p>
   <ul>
-    <li><span style="font-weight: bold;">[July 2019-now]  </span>Tikshoov Company ,customer support 
+    <li><span style="font-weight: bold;">[July 2019 - Now]  </span>Tikshoov Company ,customer support 
 
 for hotmobile company customers.</li>
     <li><span style="font-weight: bold;">[July 2018 - April 2019 ] </span> Adam Engineering Infrastructure 
