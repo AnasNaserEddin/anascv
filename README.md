@@ -89,15 +89,9 @@ a {
 <div class="stuff">
   
   <h1 style=" text-align:center;color:#0bb5f4">Anas Naser Eddin</h1> 
-<p style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> 
-
-Jerusalem</span></p>
-<p style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: 
-
-normal;color:black">Anasnasereddin@gmail.com </span></p>
-<p style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: 
-
-normal;color:black">0525269627</span></p>
+<p style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> Jerusalem</span></p>
+<p style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></p>
+<p style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: normal;color:black">0525269627</span></p>
 <br>
   <p class="head">Employment:</p>
   <ul>
@@ -157,9 +151,9 @@ Microsoft SQL Server Management Studio
 <br>
   <p class="head">Languages:</p>
   <ul>
-    <li>Arabic - mother tongue</li>
+    <li>Arabic - Mother tongue</li>
     <li>Hebrew – Professional bussiness level</li>
-    <li>English - good level</li>
+    <li>English - Good level</li>
   </ul>
 <br>
 </div>
