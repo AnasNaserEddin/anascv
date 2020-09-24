@@ -57,11 +57,15 @@ div {
   height: 1000px;
 }
 
-p,
 li {
  font-family: "Montserrat", sans-serif;
 font-color:"#0bb5f4";
 list-style-type:square;
+}
+
+p {
+ font-family: "Montserrat", sans-serif;
+font-color:"#0bb5f4";
 }
 
 .head {
