@@ -101,16 +101,16 @@ normal;color:black">0525269627</span></p>
 <br>
   <p class="head">Employment:</p>
   <ul>
-    <li><span style="font-weight: bold;">[7/2019-now]  </span>Tikshoov Company ,customer support 
+    <li><span style="font-weight: bold;">[July 2019-now]  </span>Tikshoov Company ,customer support 
 
 for hotmobile company customers.</li>
-    <li><span style="font-weight: bold;">[07.2018 - 04.2019 ] </span> Adam Engineering Infrastructure 
+    <li><span style="font-weight: bold;">[July 2018 - April 2019 ] </span> Adam Engineering Infrastructure 
 
 and Development Ltd.</li>
 <p>Office work such as preparing work days reports and details of the employees work and 
 
 preparing salaries and doing the network connection and repairing for the computers </p>
-    <li><span style="font-weight: bold;">[2017 .05 - 06.2018 ]  </span>John Bryce Company  </li>
+    <li><span style="font-weight: bold;">[May 2017 - June 2018 ]  </span>John Bryce Company  </li>
 <p>Embeds and guides the system q-flow In Hadassah Hospital</p>
 <p>Training and deployment and technical support in the Department of the Ministry of Education, 
 
@@ -133,22 +133,22 @@ Jordan University of  Science and Technology, Irbid .</li>
   <ul>
         <li>Course in programming language java Environments Client & Enterprise at john Bryce 
 
-college Tel Aviv.<span style="font-weight: bold;"> [ 3/2017 - 1/2018 ]</span></li>
+college Tel Aviv.<span style="font-weight: bold;"> [March 2017 - January 2018]</span></li>
 <li>Development Apps Environment Android + Web John Bryce Jerusalem .<span style="font-weight: 
 
-bold;"> [ 10/2016 - 3/2017 ]</span></li>
+bold;"> [October 2016 - March 2017 ]</span></li>
         </ul>
 <br>
-  <p class="head">Programming languages:</p>
+  <p class="head">Skills:</p>
   <ul>
     <li>Software and Languages :
- Android, C ++, C # , Visual Basic, Java , Microsoft office
-Html ( Html 5.0 ), Css 3, JScript, JQuery
+ Android, C++, C# , Visual Basic, Java , Microsoft office
+Html( Html 5.0 ), Css3, JScript, JQuery
 </li>
     <li>Database :</li>
 <p>SQL Server</p>
 <li>Workspace:</li>
-<p>AutoCAD, J ava Eclipse for programming, Android Studio
+<p>AutoCAD, Java Eclipse for programming, Android Studio
 Microsoft Visual Studio 2010 for .net programming
 Microsoft SQL Server Management Studio
 </p>
@@ -158,7 +158,7 @@ Microsoft SQL Server Management Studio
   <p class="head">Languages:</p>
   <ul>
     <li>Arabic - mother tongue</li>
-    <li>Hebrew – v.good level</li>
+    <li>Hebrew – Professional bussiness level</li>
     <li>English - good level</li>
   </ul>
 <br>
