@@ -92,7 +92,6 @@ a {
 <p style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> Jerusalem</span></p>
 <p style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></p>
 <p style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: normal;color:black">0525269627</span></p>
-<br>
   <h2 class="head">Employment</h2>
   <ul>
     <li><span style="font-weight: bold;">[July 2019 - Present]  </span>Tikshoov Company ,customer support 
@@ -116,14 +115,14 @@ directors), and explanation of the Ministry of Education's systems and how to us
    
   </ul>
 <br>
-  <p class="head">Education:</p>
+  <h2 class="head">Education:</h2>
   <ul>
     <li><span style="font-weight: bold;">[2008-2013]</span> B.A Computer  engineering from the 
 
 Jordan University of  Science and Technology, Irbid .</li>
   </ul>
 <br>
-  <p class="head">Courses:</p>
+  <h2 class="head">Courses:</h2>
   <ul>
         <li>Course in programming language java Environments Client & Enterprise at john Bryce 
 
@@ -133,7 +132,7 @@ college Tel Aviv.<span style="font-weight: bold;"> [March 2017 - January 2018]</
 bold;"> [October 2016 - March 2017 ]</span></li>
         </ul>
 <br>
-  <p class="head">Skills:</p>
+  <h2 class="head">Skills:</h2>
   <ul>
     <li>Software and Languages :
  Android, C++, C# , Visual Basic, Java , Microsoft office
@@ -149,7 +148,7 @@ Microsoft SQL Server Management Studio
 
   </ul>
 <br>
-  <p class="head">Languages:</p>
+  <h2 class="head">Languages:</h2>
   <ul>
     <li>Arabic - Mother tongue</li>
     <li>Hebrew – Professional bussiness level</li>
