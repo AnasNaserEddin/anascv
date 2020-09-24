@@ -88,8 +88,8 @@ a {
 <div class="stuff">
   
   <h1 style=" text-align:center;color:#0bb5f4">Anas Naser Eddin</h1> 
-<span style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> Jerusalem</span></span> </br>
-<span style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></span> </br>
+<span style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> Jerusalem</span></span> <br>
+<span style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></span> <br>
 <span style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: normal;color:black">0525269627</span></span> 
   <h2 class="head">Employment</h2>
   <ul>
