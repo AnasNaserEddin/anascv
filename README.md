@@ -57,15 +57,10 @@ div {
   height: 1000px;
 }
 
-li {
+p, li {
  font-family: "Montserrat", sans-serif;
 font-color:"#0bb5f4";
 list-style-type:square;
-}
-
-p {
- font-family: "Montserrat", sans-serif;
-font-color:"#0bb5f4";
 }
 
 .head {
@@ -93,9 +88,9 @@ a {
 <div class="stuff">
   
   <h1 style=" text-align:center;color:#0bb5f4">Anas Naser Eddin</h1> 
-<span style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> Jerusalem</span></span>
-<span style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></span>
-<span style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: normal;color:black">0525269627</span></span>
+<span style="font-weight: bold;color:#0bb5f4">Address:<span style="font-weight: normal;color:black"> Jerusalem</span></span> </br>
+<span style="font-weight: bold;color:#0bb5f4">Email: <span style="font-weight: normal;color:black">Anasnasereddin@gmail.com </span></span> </br>
+<span style="font-weight: bold;color:#0bb5f4">Mobile: <span style="font-weight: normal;color:black">0525269627</span></span> 
   <h2 class="head">Employment</h2>
   <ul>
     <li><span style="font-weight: bold;">[July 2019 - Present]  </span>Tikshoov Company ,customer support 
